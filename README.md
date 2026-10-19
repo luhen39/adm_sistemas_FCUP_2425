@@ -1,3 +1,7 @@
+## DISCLAIMER
+
+**Please note that the documentation and comments are primarily in Portuguese. English translations are not provided, interested users should translate content as needed.**
+
 # Administração de Sistemas - Relatório de Projeto
 
 ## Membros do grupo
