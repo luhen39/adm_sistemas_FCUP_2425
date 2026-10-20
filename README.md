@@ -65,3 +65,7 @@ A configuração do SMB na máquina OMV foi feita da seguinte forma:
 ![](smb_conf_3.png)
 
 Para instalar o OpenLDAP no servidor Ubuntu seguimos [este tutorial](https://youtu.be/p857CNi60LM?si=n3LMQyKlC8fjil5P).
+
+---
+
+Final Grade: 15/20
